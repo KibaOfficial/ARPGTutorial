@@ -1,0 +1,30 @@
+# GameMaker Studio 2
+__pcode/
+*.yybak
+*.yyp~
+*.yym*
+*.yoi
+*.zip
+/GameMaker-Studio/
+/Included Files/
+/export/
+/Configs/
+/.debug/
+/Debug/
+/icons/
+/YYGAdmin/
+/yyz/
+*.local
+*.ldb
+*.yypd
+/Alarms/
+/Assests/
+/Errors/
+
+# GameMaker Studio 2 - Projekt-spezifisch
+datafiles/
+notes/
+objects/
+options/
+rooms/
+sprites/
