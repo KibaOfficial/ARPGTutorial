@@ -20,11 +20,3 @@ __pcode/
 /Alarms/
 /Assests/
 /Errors/
-
-# GameMaker Studio 2 - Projekt-spezifisch
-datafiles/
-notes/
-objects/
-options/
-rooms/
-sprites/

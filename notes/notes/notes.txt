@@ -1,0 +1,17 @@
+320x180
+x2 = 640x360
+x4 = 1280x720
+x6 = 1920x1080
+x12 = 3840x2160
+
+Buttons:			Keyboard | Controller 
+							 |
+- Pause			=	esc		 | start
+- Left			=   a		 | L3l, D-Left
+- Right			=	d		 | L3r, D-Right
+- Up			=	w		 | L3u, D-Up
+- Down			=	s		 | L3d, D-Down
+- Activate		=	e		 | a 
+- Attack		=	space	 | b
+- Item1			=	x		 | x
+- Item2			=	y		 | y
